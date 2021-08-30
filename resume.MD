@@ -1,9 +1,9 @@
 ### Sang (Tony) Young Chun | E-mail: <stonyc@gmail.com> | Phone: +82-010-6822-4627 (KR) / +1-734-904-4244 (US) | GitHub: [link](https://github.com/stonyc)
 ---
-#### Education
-##### University of Michigan, Ph.D. in Bioinformatics (2017) | Ann Arbor, MI | GPA: 3.6/4
-##### University of Michigan, M.Sc. in Bioinformatics (2010) | Ann Arbor, MI | GPA: 3.7/4
-##### Kalamazoo College, B.A. in Biology (2001) | Ann Arbor, MI | GPA: 3.1/4
+#### **Education**
+University of Michigan, Ph.D. in Bioinformatics (2017) | Ann Arbor, MI | GPA: 3.6/4<br>
+University of Michigan, M.Sc. in Bioinformatics (2010) | Ann Arbor, MI | GPA: 3.7/4<br>
+Kalamazoo College, B.A. in Biology (2001) | Ann Arbor, MI | GPA: 3.1/4<br>
 ---
 #### Experience
 ##### Wider Planet, Data Scientist, Manager | Feb 2021 ~ Present
