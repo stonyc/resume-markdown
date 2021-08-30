@@ -8,7 +8,7 @@
 #### **Experience**
 ##### Wider Planet, Data Scientist, Manager | Feb 2021 ~ Present
 * Developed a purchase prediction algorithm for targeted ad campaigns using LightGBM in GCP based on Spark, Big Query, Docker, Kubernetes and custom GPU clusters.
-* Designed and implemented a deep feature synthesis methodology that reduced the feature space by over 99% while increasing prediction accuracy by 5%.
+* Designed and implemented a deep feature synthesis methodology that reduced the production feature space by over 99% while increasing prediction accuracy by 5%.
 
 ##### CJ CheilJedang BIO, Senior Scientist | Data Science Team | Oct 2018 ~ Jan 2021
 * Built an end-to-end solution for classification of patent text using GCP, BigQuery and Spark; attained over 87% accuracy using BERT in Keras and TensorFlow with multiple NVIDIA Tesla V100 GPUs.
