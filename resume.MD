@@ -1,6 +1,6 @@
 ##### **Sang (Tony) Young Chun** |  Phone: +82-010-6822-**** (KR) / +1-734-904-**** (US) | [E-mail](mailto:stonyc@gmail.com) | [GitHub](https://github.com/stonyc) | [LinkedIn](https://linkedin.com/in/stonyc) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=D1pQub8AAAAJ)
 ---
-#### **EDUCATION***
+#### **EDUCATION**
 ##### University of Michigan, Ph.D. in Bioinformatics (2017) | Ann Arbor, MI | GPA: 3.6/4
 ##### University of Michigan, M.Sc. in Bioinformatics (2010) | Ann Arbor, MI | GPA: 3.7/4
 ##### Kalamazoo College, B.A. in Biology (2001) | Ann Arbor, MI | GPA: 3.1/4
