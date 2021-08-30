@@ -1,4 +1,4 @@
-##### **Sang (Tony) Young Chun** | E-mail: stonyc AT gmail.com> | Phone: +82-010-6822-4627 (KR) / +1-734-904-4244 (US) | [GitHub](https://github.com/stonyc) | [LinkedIn](https://linkedin.com/in/stonyc) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=D1pQub8AAAAJ)
+##### **Sang (Tony) Young Chun** | E-mail: <stonyc@gmail.com> | Phone: +82-010-6822-4627 (KR) / +1-734-904-4244 (US) | [GitHub](https://github.com/stonyc) | [LinkedIn](https://linkedin.com/in/stonyc) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=D1pQub8AAAAJ)
 ---
 #### **Education**
 ##### University of Michigan, Ph.D. in Bioinformatics (2017) | Ann Arbor, MI | GPA: 3.6/4
@@ -46,10 +46,10 @@
 * Created interactive laboratory modules on version control and statistical computing in R, directed lecture recitations, and prepared all graded exams and assignments.
 
 ##### University of Michigan, Graduate Student Research Assistant | 2013 ~ 2017
-* Worked with [Ryan Mills](http://millslab.org](Ryan Mills) to create **SPECtre**, a signal processing algorithm that integrates multiple types of sequence data to estimate efficiency of protein synthesis in cancer cells. Designed a weighted sampling method to simulate imperfections in sequence data. Developed expertise in the aggregation, extraction, and integration of large data sets and databases including the 1000 Genomes Project, TCGA, COSMIC, GEO, and Ensembl.
+* Worked with [Ryan Mills](http://millslab.org) to create **SPECtre**, a signal processing algorithm that integrates multiple types of sequence data to estimate efficiency of protein synthesis in cancer cells. Designed a weighted sampling method to simulate imperfections in sequence data. Developed expertise in the aggregation, extraction, and integration of large data sets and databases including the 1000 Genomes Project, TCGA, COSMIC, GEO, and Ensembl.
 
 ##### University of Michigan, Graduate Student Research Assistant | 2011 ~ 2012
-* Designed and implemented methods for the analysis of small RNA regulation using sequencing and mass spectrometry data in the lab of [John Kim]https://sites.krieger.jhu.edu/kimlab/).
+* Designed and implemented methods for the analysis of small RNA regulation using sequencing and mass spectrometry data in the lab of [John Kim](https://sites.krieger.jhu.edu/kimlab/).
 
 ##### University of Michigan, Graduate Student Research Assistant | 2009 ~ 2011
 * Under the supervision of [Arul Chinnaiyan](http://mctp.med.umich.edu/), identified high-impact mutations in sequencing data derived from prostate cancer patients.
