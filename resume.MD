@@ -1,4 +1,4 @@
-##### **Sang (Tony) Young Chun** | E-mail: <stonyc@gmail.com> | Phone: +82-010-6822-4627 (KR) / +1-734-904-4244 (US) | [GitHub](https://github.com/stonyc) | [LinkedIn](https://linkedin.com/in/stonyc) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=D1pQub8AAAAJ)
+##### **Sang (Tony) Young Chun** | E-mail: [link](mailto:stonyc@gmail.com) | Phone: +82-010-6822-4627 (KR) / +1-734-904-4244 (US) | [GitHub](https://github.com/stonyc) | [LinkedIn](https://linkedin.com/in/stonyc) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=D1pQub8AAAAJ)
 ---
 #### **Education**
 ##### University of Michigan, Ph.D. in Bioinformatics (2017) | Ann Arbor, MI | GPA: 3.6/4
