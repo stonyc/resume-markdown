@@ -27,10 +27,10 @@
 ---
 #### **Skills** (NOTE: **bold**, regular, and *italic* text denotes proficiency from highest to lowest))
 ##### Programming
-* **Pythom**, **R**, **BASH**, SQL, AWK, *Java*, *C++*
+* **Python**, **R**, **BASH**, SQL, AWK, *Java*, *C++*
 
 ##### Environments
-* Linux, OS X, Windows, Git/GitHub/GitLab, BitBucket, Jira, Confluence, Docker/Swarm, Kubernetes, GCP (GCE/GKE, Big Query, AI-Platform), AWS, SGE, Slurm
+* Linux, OS X, Windows, Git/GitHub/GitLab, BitBucket, Slack, Jira, Confluence, Docker/Swarm, Kubernetes, GCP (GCE/GKE, Big Query, AI-Platform), AWS, SGE, Slurm
 
 ##### Machine Learning / AI
 * Regression, Random Forest, XGBoost, LightGBM, CatBoost, NLP, PCA, Clustering, Cross-validation, Sampling, Classification, NLTK, Hugging Face, Transformers, TensorFlow, Keras, ktrain, scikit-learn, SciPy
